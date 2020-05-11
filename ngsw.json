@@ -1,0 +1,98 @@
+{
+  "configVersion": 1,
+  "timestamp": 1589225092041,
+  "index": "/TestSW/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/TestSW/favicon.ico",
+        "/TestSW/index.html",
+        "/TestSW/main-es2015.56a5cc84ed90c3aedc7b.js",
+        "/TestSW/main-es5.56a5cc84ed90c3aedc7b.js",
+        "/TestSW/manifest.webmanifest",
+        "/TestSW/polyfills-es2015.1f913f16a2d346cc8bdc.js",
+        "/TestSW/polyfills-es5.f1044614286c4864d80f.js",
+        "/TestSW/runtime-es2015.0811dcefd377500b5b1a.js",
+        "/TestSW/runtime-es5.0811dcefd377500b5b1a.js",
+        "/TestSW/styles.24f3688ea730de104fef.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/TestSW/assets/MediaPause.png",
+        "/TestSW/assets/MediaPlay.png",
+        "/TestSW/assets/ap02-300-ecgdata.json",
+        "/TestSW/assets/bad-300-ecgdata.json",
+        "/TestSW/assets/bd-300-ecgdata.json",
+        "/TestSW/assets/be-300-ecgdata.json",
+        "/TestSW/assets/icons/icon-128x128.png",
+        "/TestSW/assets/icons/icon-144x144.png",
+        "/TestSW/assets/icons/icon-152x152.png",
+        "/TestSW/assets/icons/icon-192x192.png",
+        "/TestSW/assets/icons/icon-384x384.png",
+        "/TestSW/assets/icons/icon-512x512.png",
+        "/TestSW/assets/icons/icon-72x72.png",
+        "/TestSW/assets/icons/icon-96x96.png",
+        "/TestSW/assets/jb-300-ecgdata.json",
+        "/TestSW/assets/lo-300-ecgdata.json",
+        "/TestSW/assets/r-300-ecgdata.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/TestSW/assets/MediaPause.png": "a854d184daa38c7691f01b12434520b076c7b5df",
+    "/TestSW/assets/MediaPlay.png": "978e25b1ff5f36e235e139e991e6c8f3a7bdd9aa",
+    "/TestSW/assets/ap02-300-ecgdata.json": "a19ab13d3f3725578e5867086ed82784b07ab641",
+    "/TestSW/assets/bad-300-ecgdata.json": "25b0dbc445b9c6beadf0e107e5fc16db1f627e38",
+    "/TestSW/assets/bd-300-ecgdata.json": "2e01a989d7dbc83c5145c9cfef039524c4516c7c",
+    "/TestSW/assets/be-300-ecgdata.json": "88b538b8ce8107cd9b45de94b3534f2160180850",
+    "/TestSW/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/TestSW/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/TestSW/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/TestSW/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/TestSW/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/TestSW/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/TestSW/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/TestSW/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/TestSW/assets/jb-300-ecgdata.json": "be1ec8b93f30af62e645c1477c0bf579cd0fbef1",
+    "/TestSW/assets/lo-300-ecgdata.json": "908d1fd5ae665d730bd819e7b291b9f6e1520e84",
+    "/TestSW/assets/r-300-ecgdata.json": "89c5229d10d158b5bdd51804dc50c41c3ffb9348",
+    "/TestSW/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/TestSW/index.html": "4b5016358dc24ad50bc1a9550a5c5b908f1b8d57",
+    "/TestSW/main-es2015.56a5cc84ed90c3aedc7b.js": "b4ca5208c01a3e5350dc1554838cbecacca94aa6",
+    "/TestSW/main-es5.56a5cc84ed90c3aedc7b.js": "002aed980479757e7d6f7222bc31cb0fc9fe8caf",
+    "/TestSW/manifest.webmanifest": "4b9001c02376fb35c4761a8a8318af41b5ff6729",
+    "/TestSW/polyfills-es2015.1f913f16a2d346cc8bdc.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/TestSW/polyfills-es5.f1044614286c4864d80f.js": "87006d1f609b94ee122cc7790b1ddb5e03d8eaa6",
+    "/TestSW/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/TestSW/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/TestSW/styles.24f3688ea730de104fef.css": "26293896d14b2998a411486238b5ccf31e9c9f6a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
